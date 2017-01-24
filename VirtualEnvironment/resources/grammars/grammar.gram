@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+grammar grammar;
+
+public <action>  = (begin | load | focus | throw | end);
+
+// Commands description:
+// CD | Begin - asdads
+// CD | Load - asdasdasd
+// CD | Throw - asdasd
+// CD | End - asdasd
